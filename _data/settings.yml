@@ -2,11 +2,11 @@
 # General Site Settings
 
 title: Scott Arakawa
-logo: 
+# logo: 
 author: themefisher
 description: Portfolio for Scott Arakawa  
 email: scottarakawa@gmail.com
-phone:
+# phone:
 address: San Francisco, CA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -116,12 +116,10 @@ blurb-btn-name: know more
 #-------------------------------
 # Education Section
 
-education-title: Education TEST
+education-title: Education
 education:
-- {name: Marters in UX Design, organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: BA in Digital Cinema and Minor in English Literature with highest honors, organization: 'DePaul University'}
+- {name: Full Stack Web Development, organization: 'Bloc'}
 
 
 #-------------------------------
