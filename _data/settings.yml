@@ -4,15 +4,17 @@
 title: Scott Arakawa
 logo: 
 author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+description: Portfolio for Scott Arakawa  
+email: scottarakawa@gmail.com
+phone:
+address: San Francisco, CA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+#-------------------------------- 
+#{name: Blog, link: '/blog'}
+#-------------------------------
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
@@ -38,13 +40,14 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Scott <br> Full Stack Web Developer
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+#- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/scottarakawa/"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/sctkawa/"}
+#- {icon: "ti-dribbble", link: "#"}
+#- {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
