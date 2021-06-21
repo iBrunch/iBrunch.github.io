@@ -153,87 +153,59 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image : "assets/images/portfolio/letschat.png"
+    url: "https://lets-chat-sa.herokuapp.com/"
+      
+  - image : "assets/images/portfolio/tiptogether.png"
+    url: "https://tip-together.herokuapp.com/"
+      
+  - image : "assets/images/portfolio/bloc-jams.png"
+    url: "https://ibrunch-bloc-jams-angular.herokuapp.com/"
+
+  - image : "assets/images/portfolio/tomatempo.png"
+    url: "https://tomatempo-ibrunch.herokuapp.com/"
 
 
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "Let’s Chat",
+    type : "lets-chat"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Tip-Together",
+    type : "tip-together"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Bloc Jams",
+    type : "bloc-jams"
+  }
+  - {
+    title : "TomaTempo",
+    type : "toma-tempo"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/letschat.png"
+    url: "https://lets-chat-sa.herokuapp.com/"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "lets-chat"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/tiptogether.png"
+    url: "https://tip-together.herokuapp.com/"
     portfolio-type:
-      - type: "branding"
+      - type: "tip-together"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/bloc-jams.png"
+    url: "https://ibrunch-bloc-jams-angular.herokuapp.com/"
     portfolio-type:
-      - type: "illustration"
+      - type: "bloc-jams"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
+  - image : "assets/images/portfolio/tomatempo.png"
+    url: "https://tomatempo-ibrunch.herokuapp.com/"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
+      - type: "toma-tempo"
+     
 
 #-------------------------------
 # Testimonials Section
