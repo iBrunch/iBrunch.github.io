@@ -1,18 +1,12 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+author: Scott Arakawa
+image: assets/images/about/scott-portrait.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+Several years ago, I taught myself HTML, CSS, and Javascript because web development was something I didn't think I was capable of. I wanted to prove myself wrong. Once I got the hand of it, I decided to enroll in a bootcamp to accelerate the learning process. Throughout my career, I’ve developed skills to support and expand the possibilities of each company I’ve worked for. I’ve produced an emmy-winning TV show from a shoestring budget; promoted and enhanced an ethics institute’s outreach programs; and, I’ve spent the last two and a half years finding and executing solutions for a prominent industrial supply company's website and print catalog. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+I was constantly learning. I filled-in organizational gaps by identifying, proposing, and executing solutions. My results optimized and updated the stale processes, and also developed clear-cut responses to customer pain points. Through all of my work, I have approached each experience with passion and an authentic desire to help. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Last year, I moved across the country with my partner to live in San Francisco. I was ready to look for a new career. In an odd bit of luck during the pandemic, I was able to continue working remotely at my Chicago position. Today, I'm ready for the next step in my career, and I hope you'll join me.
