@@ -5,7 +5,7 @@ author: Scott Arakawa
 image: assets/images/about/scott-portrait.jpg
 ---
 
-Several years ago, I taught myself HTML, CSS, and Javascript because web development was something I didn't think I was capable of. I wanted to prove myself wrong. Once I got the hand of it, I decided to enroll in a bootcamp to accelerate the learning process. Throughout my career, I’ve developed skills to support and expand the possibilities of each company I’ve worked for. I’ve produced an emmy-winning TV show from a shoestring budget; promoted and enhanced an ethics institute’s outreach programs; and, I’ve spent the last two and a half years finding and executing solutions for a prominent industrial supply company's website and print catalog. 
+Throughout my career, I’ve developed skills to support and expand the possibilities of each company I’ve worked for. I’ve produced an emmy-winning TV show from a shoestring budget; promoted and enhanced an ethics institute’s outreach programs; and, I’ve spent the last two and a half years finding and executing solutions for a prominent industrial supply company's website and print catalog. 
 
 I was constantly learning. I filled-in organizational gaps by identifying, proposing, and executing solutions. My results optimized and updated the stale processes, and also developed clear-cut responses to customer pain points. Through all of my work, I have approached each experience with passion and an authentic desire to help. 
 
